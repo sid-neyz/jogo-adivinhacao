@@ -95,7 +95,7 @@ int main(){
 		printf("                 _.' '._\n");
 		printf("                `\"\"\"\"\"\"\"`\n\n");
 		printf("Você ganhou\n");
-		printf("Você acertou em %d tentativas\n",tentativas-1);
+		printf("Você acertou em %d tentativas\n",tentativas);
 		printf("Total de pontos: %.1f \n",pontos );
 	} else{
 		printf("Você perdeu! Tente de novo!\n");
